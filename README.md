@@ -4,3 +4,4 @@ I am Junior web developer focusing on frontend but I have experinces on backend 
 I really enjoy learning frame javascript works  like react and React Natives
 I am  a good Teamworker and I have a experience of working as manager under our group software projects during  design phase.
 # skills HTML,CSS,JavaScript and React Js
+# end
